@@ -11,7 +11,5 @@
 как я заметил там нет футера
 виджеты расположены справа 
 ## 3
-<image src="/web-technologies/before_3task.png" alt ="before">
-
-
-<image src="/web-technologies/after_3task.png" alt= "after">
+добавил пару надписей смайликов и тд
+## 4
